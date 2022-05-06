@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x998E53C9C5fef0a386FAd36929D7A79Ef9e6A65A",
-  "SCAN_LINK": "https://polygonscan.com/token/0x998E53C9C5fef0a386FAd36929D7A79Ef9e6A65A",
+  "CONTRACT_ADDRESS": "0xe0964604A2dc994dcb4F04B554C3d30783cd034f",
+  "SCAN_LINK": "https://polygonscan.com/token/0xe0964604A2dc994dcb4F04B554C3d30783cd034f",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Mutant Kongz Polygon",
+  "NFT_NAME": "Lucky Polygon Punks",
   "SYMBOL": "MKP",
-  "MAX_SUPPLY": 20000,
+  "MAX_SUPPLY": 1100,
   "WEI_COST": 100000000000000000,
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/mutant-kongz-poly",
-  "SHOW_BACKGROUND": true
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lucky-polygon-punks",
+  "SHOW_BACKGROUND": false
 }
