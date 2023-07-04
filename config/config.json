@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x4e2d77D309D123dF74e8EcDBf274541Ce0AC00bE",
-  "SCAN_LINK": "https://polygonscan.com/token/0x4e2d77D309D123dF74e8EcDBf274541Ce0AC00bE",
+  "CONTRACT_ADDRESS": "0x3739E38E045cE117Ce41570ae6a142307E8d0273",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3739e38e045ce117ce41570ae6a142307e8d0273",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,9 +8,9 @@
   },
   "NFT_NAME": "Lucky Polygon Punks",
   "SYMBOL": "LPP",
-  "MAX_SUPPLY": 3100,
-  "WEI_COST": 300000000000000000,
-  "DISPLAY_COST": 0.3,
+  "MAX_SUPPLY": 10100,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/lucky-polygon-punks",
